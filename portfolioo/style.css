@@ -20,7 +20,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 10%;
-    background: lightblue;
+    background: grey;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -65,7 +65,7 @@ body {
     width: 100%;
     justify-content: space-between;
     min-height: 100vh;
-    background-color: grey;
+    background-color: white;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -79,7 +79,7 @@ body {
 
 .home-content h1 {
     font-size: 56px;
-     color: #000;
+     color:lightblue;
     font-weight: 700;
     margin: -3px 0;
     letter-spacing: 5px;
@@ -258,7 +258,7 @@ p{
 
 /* Skills */
 #Skills{
-    background-color: #000;
+    background-color:white;
 }
 /* # h1 aa{
     position: relative;
