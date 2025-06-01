@@ -1019,15 +1019,7 @@ h1 span:nth-child(5){
         font-size: 18px;
         font-weight: 200;
     }
-    .img{
-        max-width: 400px;
-        position: relative;
-        left: -10%;
-        top: 2%;
-        padding-bottom: 30px;
-        padding-left: 0;
-        margin-left: 0;
-    }
+     
     .btn-box:hover {
         box-shadow: 0 0 5px cyan, 0 0 10px cyan, 0 0 15pc cyan, 0 0 20px cyan, 0 0 25px cyan;
     }
